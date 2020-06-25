@@ -1,5 +1,9 @@
-# 字符编码问题深究
-
+# 由一个关键字 char 引发的问题 : 一张导图带你摸清字符集的来龙去脉
+![image](https://github.com/halweg/Character-Encoding-Guide/blob/master/image/example1.jpg)
+![image](https://github.com/halweg/Character-Encoding-Guide/blob/master/image/example2.jpg)
+![image](https://github.com/halweg/Character-Encoding-Guide/blob/master/image/example3.jpg)
+![image](https://github.com/halweg/Character-Encoding-Guide/blob/master/image/example4.jpg)
+![image](https://github.com/halweg/Character-Encoding-Guide/blob/master/image/example5.jpg)
 ## 基本组成和术语
 
 ### 字节：8bit，历史原因，最早的寄存器宽度只有8bit，和其它一些商业原因，内存的最小寻址单元，一次就取8bit,
